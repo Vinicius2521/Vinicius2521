@@ -1,8 +1,8 @@
 👋 Olá, eu sou o Vinicius Leite Antonio!
-Sou um jovem desenvolvedor Android de 17 anos (aniversário em 14/12/2007) com uma paixão crescente por tecnologia e programação. Comecei a estudar e programar no ano passado e estou super animado para a minha primeira oportunidade formal na área!
+Sou um jovem desenvolvedor Android de 17 anos com uma paixão crescente por tecnologia e programação. Comecei a estudar e programar no ano passado e estou super animado para a minha primeira oportunidade formal na área!
 
 🚀 O que estou a aprender e a fazer:
-💻 Atualmente, estou a aprofundar os meus conhecimentos em Desenvolvimento Android com Kotlin e Android SDK.
+💻 Atualmente, estou a aprofundar os meus conhecimentos em Desenvolvimento Android com Kotlin, Android SDK e em Front-End
 
 🌱 Estou sempre a aprender e a explorar novas tecnologias e as melhores práticas de desenvolvimento de software.
 
