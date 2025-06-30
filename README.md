@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Olá, eu sou o Vinicius Leite Antonio!
+Sou um jovem desenvolvedor Android de 17 anos (aniversário em 14/12/2007) com uma paixão crescente por tecnologia e programação. Comecei a estudar e programar no ano passado e estou super animado para a minha primeira oportunidade formal na área!
 
-<!--
-**Vinicius2521/Vinicius2521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 O que estou a aprender e a fazer:
+💻 Atualmente, estou a aprofundar os meus conhecimentos em Desenvolvimento Android com Kotlin e Android SDK.
 
-Here are some ideas to get you started:
+🌱 Estou sempre a aprender e a explorar novas tecnologias e as melhores práticas de desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Gosto de transformar ideias complexas em soluções intuitivas e eficientes, especialmente em projetos que envolvem jogos ou aplicações interativas.
+
+✨ As minhas competências:
+Desenvolvimento Android: Kotlin, Android SDK
+Habilidades Transferíveis: Atenção meticulosa aos detalhes, organização eficiente, resolução de problemas, gerenciamento de tarefas, análise de dados.
+Pacote Office: Excel, Word, PowerPoint (nível avançado).
